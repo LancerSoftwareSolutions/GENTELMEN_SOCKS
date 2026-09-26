@@ -3,7 +3,7 @@ if (year) year.textContent = new Date().getFullYear();
 
 const stock = [
   ["nike-black", "Nike Black Socks", "Nike", "Nike/nike-black.png", 2.99],
-  ["nike-elite", "Nike Elite Socks", "Nike", "Nike/elite.png", 2.99],
+  ["nike-elite-blue", "Nike Elite Blue Socks", "Nike", "Nike/elite.png", 2.99],
   ["nike-elite-black", "Nike Elite Black Socks", "Nike", "Nike/elite-black.png", 2.99],
   ["nike-elite-red", "Nike Elite Red Socks", "Nike", "Nike/elite-red.png", 2.99],
   ["nike-elite-white", "Nike Elite White Socks", "Nike", "Nike/elite-white.png", 2.99],
